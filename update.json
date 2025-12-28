@@ -1,0 +1,6 @@
+{
+  "version": "1.0.0",
+  "download_url": "https://github.com/App-Melomusic/Updates/releases/download/v1.0.0/Melo.v1.0.0.exe",
+  "mandatory": true,
+  "changelog": "Bug fixes and performance improvements"
+}
